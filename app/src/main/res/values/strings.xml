@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="title">Data Mahasiswa</string>
+    <string name="fragment_1">Nama</string>
+    <string name="fragment_2">Alamat</string>
+    <string name="fragment_3">NIM</string>
+</resources>
